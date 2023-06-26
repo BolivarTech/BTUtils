@@ -16,8 +16,8 @@ This poject is provided "AS IS", no waranty, no responsabilities, no more docume
 
 ### License
 
-Copyright © [BolivarTech](https://www.bolivartech.com) 2022 All Rights Reserved.
+Copyright © [BolivarTech](https://www.bolivartech.com) 2023 All Rights Reserved.
 
-Java Utils © 2022 by [Julian Bolivar](https://www.linkedin.com/in/jbolivarg/) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+Java Utils © 2023 by [Julian Bolivar](https://www.linkedin.com/in/jbolivarg/) is licensed under [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 Please see [License File](LICENSE.md) for more information.
