@@ -1,0 +1,4 @@
+# BolivarTech Networs's manifest
+Enable adding the follow instruction to .\nbproject\project.properties file
+" # Manifest File with custom user options
+  manifest.file=MANIFEST.MF "
